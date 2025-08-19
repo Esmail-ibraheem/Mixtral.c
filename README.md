@@ -41,10 +41,10 @@ mixtral/
 
 ## How to build:
 ```
-  gcc -O3 -march=native mixtral.c -o mixtral -lm
+  gcc -O3 -march=native inference.c -o inference -lm
 ```
 
 **How to run (toy demo with random weights):**
 ```
-   ./mixtral "1 5 4 2 3"   # space‑separated token ids from 0..VOCAB-1
+   ./inference "1 5 4 2 3"   # space‑separated token ids from 0..VOCAB-1
 ```
