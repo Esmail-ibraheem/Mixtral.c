@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="A_vector_graphic_digital_illustration_features_a_s.png" alt="Mixtral in C" width="300"/>
+  <img src="https://github.com/Esmail-ibraheem/Mixtral.c/blob/main/mixtal.png" alt="Mixtral in C" width="300"/>
 </p>
 
 
