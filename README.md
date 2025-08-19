@@ -1,5 +1,11 @@
 # Mixtral.c
-<img width="1024" height="1024" alt="ChatGPT Image Aug 19, 2025, 06_14_58 PM" src="https://github.com/user-attachments/assets/425b96f9-a466-4fa0-bee8-d26e2d6989fe" />
+
+
+<p align="center">
+  <img src="<img width="1024" height="1024" alt="ChatGPT Image Aug 19, 2025, 06_14_58 PM" src="https://github.com/user-attachments/assets/d13e38e5-6663-4114-b561-9d23448ee71d" />
+" alt="Mixtral in C" width="300"/>
+</p>
+
 
 mixtral model from scratch using pure C
 
